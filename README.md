@@ -4,6 +4,7 @@ Final capstone project for the Excelerate Data Analyst Associate Internship. Bui
 ---
 
 # 📊 End-to-End Data Integration & Power BI Dashboard for Cohort Analytics
+
 **Capstone Project | Excelerate Data Analyst Associate Internship**
 
 This repository showcases a comprehensive analytics solution built as the final capstone for the Excelerate Data Analyst Associate Internship. I led the design and execution of a complete **data engineering and visualization pipeline**, transforming disjointed raw CSV files into a relational data warehouse and delivering an **interactive Power BI dashboard** for strategic decision-making.
